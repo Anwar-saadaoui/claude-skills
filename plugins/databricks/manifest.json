@@ -1,0 +1,18 @@
+{
+  "name": "Databricks Expert",
+  "version": "1.0.0",
+  "description": "Advanced Databricks engineering: Delta Lake, jobs, optimization, pipelines, ML workflows.",
+  "entry": "SKILL.md",
+  "skills": [
+    "skills/skill-1.md",
+    "skills/skill-2.md",
+    "skills/skill-3.md",
+    "skills/skill-4.md",
+    "skills/skill-5.md",
+    "skills/skill-6.md",
+    "skills/skill-7.md",
+    "skills/skill-8.md",
+    "skills/skill-9.md",
+    "skills/skill-10.md"
+  ]
+}

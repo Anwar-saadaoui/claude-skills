@@ -1,0 +1,7 @@
+{
+  "name": "Airflow Expert",
+  "version": "1.0.0",
+  "description": "Design and manage Apache Airflow DAGs, scheduling strategies, operators, sensors, and production orchestration pipelines.",
+  "entry": "SKILL.md",
+  "tags": ["airflow", "orchestration", "etl", "dag", "scheduling"]
+}

@@ -1,8 +1,11 @@
 {
-  "name": "Data Engineering Marketplace",
+  "name": "Claude Data Engineering Skills",
   "version": "1.0.0",
   "plugins": [
-    "plugins/kafka-expert",
-    "plugins/spark-expert"
+    "plugins/airflow",
+    "plugins/databricks",
+    "plugins/iceberg",
+    "plugins/kafka",
+    "plugins/spark"
   ]
 }

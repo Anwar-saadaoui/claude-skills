@@ -1,0 +1,7 @@
+{
+  "name": "Apache Spark Expert",
+  "version": "1.0.0",
+  "description": "Optimize distributed data processing using Spark, covering RDDs, DataFrames, performance tuning, and cluster execution.",
+  "entry": "SKILL.md",
+  "tags": ["spark", "big-data", "distributed", "etl", "optimization"]
+}

@@ -1,0 +1,7 @@
+{
+  "name": "Kafka Expert",
+  "version": "1.0.0",
+  "description": "Design scalable Kafka architectures, event-driven systems, stream processing, and fault-tolerant messaging pipelines.",
+  "entry": "SKILL.md",
+  "tags": ["kafka", "streaming", "events", "messaging", "real-time"]
+}

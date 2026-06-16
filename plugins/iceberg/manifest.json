@@ -1,0 +1,7 @@
+{
+  "name": "Apache Iceberg Expert",
+  "version": "1.0.0",
+  "description": "Design and optimize Apache Iceberg tables for scalable data lakes, versioning, schema evolution, and query performance.",
+  "entry": "SKILL.md",
+  "tags": ["iceberg", "data-lake", "table-format", "big-data", "storage"]
+}
