@@ -1,0 +1,8 @@
+{
+  "name": "Data Engineering Marketplace",
+  "version": "1.0.0",
+  "plugins": [
+    "plugins/kafka-expert",
+    "plugins/spark-expert"
+  ]
+}
